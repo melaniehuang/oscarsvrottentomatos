@@ -1,7 +1,7 @@
 var oCSV;
 var barWidth = 400;
 var barHeight = 40;
-
+var wWidth;
 var canvas;
 var showButton;
 var hideButton;
@@ -17,7 +17,7 @@ function setup() {
   var totalHeight = barHeight * oCSV.getRowCount();
   canvas = createCanvas(windowWidth, totalHeight);
   canvas.parent('myCanvas');
-
+  wWidth = windowWidth - 64;
   //noCanvas();
   
   background(241, 246, 25);
@@ -80,7 +80,7 @@ function setup() {
     var movie = oCSV.getRow(i);
       
     stroke(0);
-    line(0, (barHeight*i), windowWidth, (barHeight*i));
+    line(0, (barHeight*i), wWidth, (barHeight*i));
     noStroke();
     renderRatings(movie, i);
   }
@@ -120,12 +120,12 @@ function renderRatings(m, i){
   var user = m.getNum(6)*100; //float
   user = user.toFixed(0);
   
-  var startingPoint = (windowWidth/100)*user;
+  var startingPoint = (wWidth/100)*user;
   var ratingDiff =  critic - user;
   var circle = false;
   println(user);
 
-  if (ratingDiff < -5 || ratingDiff > 5){
+  if (ratingDiff < -10 || ratingDiff > 10){
     fill(0);
     var circle = true;
   } else {
@@ -137,7 +137,7 @@ function renderRatings(m, i){
     strokeWeight(2);
     line(startingPoint, barHeight*i, startingPoint, (barHeight*i)+barHeight);
   } else {
-    rect(startingPoint, barHeight*i, (windowWidth/100)*ratingDiff, barHeight);
+    rect(startingPoint, barHeight*i, (wWidth/100)*ratingDiff, barHeight);
   }
 
   if ((circle == true) && (ratingDiff < 0)) {
@@ -148,7 +148,10 @@ function renderRatings(m, i){
 
     noStroke();
     fill(0);
-    text(str(user)+"%", startingPoint +10, (barHeight*i)+(barHeight/2)+4);
+    textAlign(RIGHT);
+    text(str(critic)+"%", startingPoint+((wWidth/100)*ratingDiff)-8, (barHeight*i)+(barHeight/2)+4);
+    textAlign(LEFT);
+    text(str(user)+"%", startingPoint + 10, (barHeight*i)+(barHeight/2)+4);
   } else if ((circle == true) && (ratingDiff > 0)) {
     strokeWeight(3);
     stroke(0);
@@ -157,6 +160,9 @@ function renderRatings(m, i){
 
     noStroke();
     fill(0);
+    textAlign(RIGHT);
+    text(str(critic)+"%", startingPoint + ((wWidth/100)*ratingDiff)+32, (barHeight*i)+(barHeight/2)+4);
+    textAlign(LEFT);
     text(str(user)+"%", startingPoint - 34, (barHeight*i)+(barHeight/2)+4);
   }
 

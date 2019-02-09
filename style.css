@@ -14,18 +14,20 @@ h1 {
 
 
 #header {
-  padding:100px 0px 80px 20px;
+  padding:100px 0px 80px 32px;
   max-width: 640px;
 }
 
 #myCanvas {
   position: absolute;  
   z-index: 0;
+  left: 32px;
 }
 
 #myList {
   position: absolute;
   z-index: 1;
+  left: 32px;
 }
 
 .bold {
@@ -42,8 +44,8 @@ h1 {
 
 .bar {
   width:1000px;
-  height:28px;
-  padding-top:12px;
+  height:30px;
+  padding-top:10px;
   padding-left:14px;
   margin:0px;
   font-size: 12px;
