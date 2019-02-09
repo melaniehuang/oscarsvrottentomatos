@@ -1,0 +1,71 @@
+body {
+  padding: 0; 
+  margin: 0;
+  font-family: sans-serif;
+  background-color: rgb(241, 246, 25);
+  line-height: 22px;
+  font-size: 16px;
+}
+
+h1 {
+  font-size: 60px;
+  line-height: 64px;
+}
+
+
+#header {
+  padding:100px 0px 80px 20px;
+  max-width: 640px;
+}
+
+#myCanvas {
+  position: absolute;  
+  z-index: 0;
+}
+
+#myList {
+  position: absolute;
+  z-index: 1;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.small {
+  font-size:12px;
+}
+
+.extrasmall {
+  font-size:10px;
+}
+
+.bar {
+  width:1000px;
+  height:28px;
+  padding-top:12px;
+  padding-left:14px;
+  margin:0px;
+  font-size: 12px;
+}
+
+.animated {
+  -webkit-animation-duration: 4s;
+  -webkit-animation-delay: 0.5s;
+}
+
+.show_all {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  width: 150px;
+  height: 40px;
+}
+
+.hide_all {
+  position: absolute;
+  top: 58px;
+  right: 10px;
+  width: 150px;
+  height: 40px;
+}

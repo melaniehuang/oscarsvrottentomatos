@@ -1,0 +1,118 @@
+Award Year,Movie,Win,Total wins,Nominations,Critic,User,Budget,Revenue,ROI,People,Genre
+2017,Arrival,NA,NA,8,0.94,0.83,47000000,175882987,2.74,N,"Drama, Science Fiction"
+2017,Fences,NA,NA,4,0.95,0.80,24000000,50822683,1.12,N,Drama
+2017,Hacksaw Ridge,NA,NA,6,0.86,0.94,40000000,163644140,3.09,N,"Drama, History, War"
+2017,Hell or High Water,NA,NA,4,0.98,0.89,12000000,27007844,1.25,N,"Western, Crime, Drama"
+2017,Hidden Figures,NA,NA,3,0.93,0.94,25000000,106571389,3.26,Y,Drama
+2017,La La Land,NA,NA,14,0.93,0.86,30000000,225554865,6.52,N,"Romance, Comedy, Drama, Music"
+2017,Lion,NA,NA,6,0.86,0.93,12000000,33873507,1.82,N,Drama
+2017,Manchester by the Sea,NA,NA,6,0.96,0.81,8500000,42586594,4.01,N,Drama
+2017,Moonlight,NA,NA,8,0.98,0.87,5000000,17714851,2.54,N,Drama
+2016,The Revenant,N,3,12,0.83,0.85,135000000,362768507,1.69,N,"Western, Drama, Adventure, Thriller"
+2016,Brooklyn,N,0,3,0.98,0.89,10000000,34486749,1.84,N,"Drama, Romance"
+2016,The Big Short,N,1,5,0.88,0.89,28000000,118553062,3.23,N,"Comedy, Drama"
+2016,The Martian,N,0,7,0.92,0.92,108000000,614674802,4.69,N,"Drama, Adventure, Science Fiction"
+2016,Bridge of Spies,N,1,6,0.91,0.87,40000000,164104469,3.10,N,"Thriller, Drama"
+2016,Mad Max: Fury Road,N,6,10,0.97,0.86,150000000,376736354,1.51,N,"Action, Adventure, Science Fiction, Thriller"
+2016,Room,N,1,4,0.94,0.94,6000000,12092744,1.02,N,"Drama, Thriller"
+2016,Spotlight,W,2,6,0.96,0.94,20000000,53668275,1.68,W,"Drama, Thriller, History"
+2015,Birdman,W,4,9,0.92,0.78,18000000,103215094,4.73,N,"Drama, Comedy"
+2015,American Sniper,N,1,6,0.72,0.85,58800000,542307423,8.22,N,"War, Action"
+2015,Boyhood,N,1,6,0.98,0.81,4000000,44349000,10.09,N,Drama
+2015,The Grand Budapest Hotel,N,4,9,0.92,0.86,30000000,174600318,4.82,N,"Comedy, Drama"
+2015,The Imitation Game,N,1,8,0.90,0.92,14000000,219501092,14.68,N,"Drama, Thriller, History, War"
+2015,Selma,N,1,2,0.99,0.86,20000000,66787908,2.34,N,"History, Drama"
+2015,The Theory of Everything,N,1,5,0.80,0.84,15000000,121201940,7.08,N,"Drama, Romance"
+2015,Whiplash,N,3,5,0.94,0.94,3300000,13993092,3.24,W,"Drama, Music"
+2014,12 Years a Slave,W,3,9,0.96,0.90,22000000,204969562,8.32,N,"History, Drama"
+2014,American Hustle,N,0,10,0.93,0.74,40000000,251171807,5.28,N,"Drama, Crime"
+2014,Captain Phillips,N,0,6,0.93,0.89,55000000,95000000,0.73,N,"Action, Drama, Thriller"
+2014,Dallas Buyers Club,N,3,6,0.94,0.91,5000000,55198285,10.04,W,"Drama, History"
+2014,Gravity,N,7,10,0.97,0.80,105000000,716392705,5.82,N,"Science Fiction, Thriller, Drama"
+2014,Her,N,1,5,0.94,0.82,23000000,47351251,1.06,N,"Romance, Science Fiction, Drama"
+2014,Nebraska,N,0,6,0.91,0.83,12000000,17654912,0.47,N,"Drama, Adventure"
+2014,Philomena,N,0,4,0.92,0.89,12000000,100129872,7.34,N,Drama
+2014,The Wolf of Wall Street,N,0,5,0.77,0.82,100000000,392000694,2.92,N,"Crime, Drama, Comedy"
+2013,Argo,W,3,7,0.96,0.90,44500000,232324128,4.22,N,"Drama, Thriller"
+2013,Amour,N,1,5,0.93,0.82,8900000,19839492,1.23,N,"Drama, Romance"
+2013,Beasts of the Southern Wild,N,0,4,0.86,0.76,1800000,21107746,10.73,N,"Drama, Fantasy"
+2013,Django Unchained,N,2,5,0.88,0.91,100000000,425368238,3.25,W,"Drama, Western"
+2013,Les Misérables,N,3,8,0.70,0.79,61000000,441809770,6.24,N,"Drama, Music, Romance"
+2013,Life of Pi,N,4,11,0.86,0.84,120000000,609016565,4.08,N,"Adventure, Drama, Action"
+2013,Lincoln,N,2,12,0.90,0.81,65000000,275293450,3.24,N,"Drama, War"
+2013,Silver Linings Playbook,N,1,8,0.92,0.86,21000000,205738714,8.80,N,"Drama, Comedy, Romance"
+2013,Zero Dark Thirty,N,1,5,0.93,0.80,40000000,132820716,2.32,N,"Thriller, Drama, History"
+2012,The Artist,W,5,10,0.97,0.87,15000000,133432856,7.90,N,"Drama, Comedy, Romance"
+2012,The Descendants,N,1,5,0.89,0.79,20000000,177243185,7.86,N,"Comedy, Drama"
+2012,Extremely Loud and Incredibly Close,N,0,2,0.46,0.61,40000000,55247881,0.38,N,Drama
+2012,The Help,N,1,4,0.76,0.89,25000000,124272124,3.97,W,Drama
+2012,Hugo,N,5,11,0.94,0.78,170000000,185770160,0.09,N,"Adventure, Drama, Family"
+2012,Midnight in Paris,N,1,4,0.93,0.83,30000000,70278363,1.34,N,"Fantasy, Comedy, Romance"
+2012,Moneyball,N,0,6,0.94,0.86,50000000,110206216,1.20,N,Drama
+2012,The Tree of Life,N,0,3,0.84,0.60,32000000,54674226,0.71,N,"Drama, Fantasy"
+2012,War Horse,N,0,6,0.77,0.74,66000000,177584879,1.69,N,"Drama, War"
+2011,The King's Speech ,W,4,12,0.95,0.92,15000000,414211549,26.61,W,"Drama, History"
+2011,Black Swan ,N,1,5,0.87,0.84,13000000,327803731,24.22,N,"Drama, Mystery, Thriller"
+2011,The Fighter,N,2,7,0.90,0.89,25000000,129190869,4.17,N,The Fighter
+2011,Inception,N,4,8,0.86,0.91,160000000,825500000,4.16,N,"Action, Thriller, Science Fiction, Mystery, Adventure"
+2011,The Kids Are All Right ,N,0,4,0.93,0.73,4000000,34705850,7.68,N,"Comedy, Drama"
+2011,127 Hours,N,0,6,0.93,0.85,18000000,35692920,0.98,N,"Adventure, Drama, Thriller"
+2011,The Social Network,N,3,8,0.96,0.86,40000000,224920315,4.62,N,Drama
+2011,Toy Story 3,N,2,5,0.99,0.89,200000000,1063171911,4.32,N,"Animation, Family, Comedy"
+2011,True Grit ,N,0,10,0.96,0.85,38000000,252276927,5.64,N,"Drama, Adventure, Western"
+2011,Winter's Bone ,N,0,4,0.94,0.76,2000000,13831503,5.92,N,Drama
+2010,The Hurt Locker,W,6,9,0.98,0.84,15000000,42000000,1.80,N,"Drama, Thriller, War"
+2010,Avatar,N,3,9,0.83,0.82,237000000,2781505847,10.74,N,"Action, Adventure, Fantasy, Science Fiction"
+2010,The Blind Side,N,1,2,0.66,0.85,29000000,309208309,9.66,N,Drama
+2010,District 9,N,0,4,0.90,0.82,30000000,210819611,6.03,N,"Action, Thriller, Science Fiction"
+2010,An Education,N,0,3,0.94,0.80,7500000,26096852,2.48,N,"Drama, Romance"
+2010,Inglourious Basterds,N,1,8,0.89,0.87,70000000,319131050,3.56,N,"Drama, Action, Thriller, War"
+2010,Precious,N,2,6,0.91,0.81,10000000,62395661,5.24,N,Drama
+2010,A Serious Man,N,0,2,0.89,0.67,7000000,31430334,3.49,N,"Comedy, Drama"
+2010,Up,N,2,5,0.98,0.90,175000000,731342744,3.18,W,"Animation, Comedy, Family, Adventure"
+2010,Up in the Air,N,0,6,0.91,0.79,25000000,163670000,5.55,N,"Drama, Romance"
+2009,Slumdog Millionaire,W,8,10,0.92,0.90,15000000,377910544,24.19,W,"Drama, Romance"
+2009,The Curious Case of Benjamin Button,N,3,13,0.72,0.80,150000000,333932083,1.23,N,"Fantasy, Drama, Thriller, Mystery, Romance"
+2009,Frost/Nixon,N,0,5,0.92,0.88,25000000,27426335,0.10,N,Drama
+2009,Milk,N,2,8,0.94,0.89,20000000,54586584,1.73,N,"History, Drama"
+2009,The Reader,N,1,5,0.61,0.79,32000000,108901967,2.40,N,"Drama, Romance"
+2008,No Country for Old Men,W,4,8,0.93,0.86,25000000,171600000,5.86,N,"Crime, Drama, Thriller"
+2008,Atonement,N,1,7,0.83,0.80,30000000,129266061,3.31,N,"Drama, Romance"
+2008,Juno,N,1,4,0.94,0.88,7500000,231411584,29.85,W,"Comedy, Drama, Romance"
+2008,Michael Clayton,N,1,7,0.90,0.69,25000000,92991835,2.72,N,"Drama, Mystery, Crime"
+2008,There Will Be Blood,N,2,8,0.91,0.86,25000000,76181545,2.05,N,Drama
+2007,Babel,N,1,7,0.69,0.77,25000000,135330182,4.41,N,Drama
+2007,The Departed,W,4,5,0.91,0.94,90000000,289847354,2.22,W,"Drama, Thriller, Crime"
+2007,Letters from Iwo Jima,N,1,4,0.91,0.86,19000000,68673228,2.61,N,"Action, Adventure, Drama, War"
+2007,Little Miss Sunshine,N,2,4,0.91,0.91,8000000,100523181,11.57,N,"Comedy, Drama"
+2007,The Queen,N,1,6,0.97,0.76,15000000,123384128,7.23,N,Drama
+2006,Crash,W,3,6,0.75,0.88,6500000,98410061,14.14,W,Drama
+2006,Brokeback Mountain,N,3,8,0.87,0.82,14000000,178043761,11.72,N,"Drama, Romance"
+2006,Capote,N,1,5,0.90,0.81,7000000,49084830,6.01,N,"Crime, Drama"
+2006,"""Good Night, and Good Luck""",N,0,6,0.93,0.83,7000000,54600000,6.80,N,"Drama, History"
+2006,Munich,N,0,5,0.78,0.83,70000000,130358911,0.86,N,"Drama, Action, History, Thriller"
+2005,Million Dollar Baby,W,4,7,0.91,0.90,30000000,216763646,6.23,W,Drama
+2005,The Aviator ,N,5,11,0.87,0.79,116000000,213741459,0.84,N,Drama
+2005,Finding Neverland,N,1,7,0.83,0.87,25000000,51676606,1.07,N,Drama
+2005,Ray,N,2,6,0.81,0.87,40000000,124731534,2.12,N,Drama
+2005,Sideways,N,1,5,0.96,0.78,16000000,109502303,5.84,N,"Comedy, Drama, Romance"
+2004,The Lord of the Rings: The Return of the King,W,11,11,0.91,0.95,94000000,1118888979,10.90,W,"Adventure, Fantasy, Action"
+2004,Lost in Translation,N,1,4,0.95,0.86,4000000,9000000,1.25,N,Drama
+2004,Master and Commander: The Far Side of the World,N,2,10,0.85,0.80,150000000,212011111,0.41,N,Adventure
+2004,Mystic RIver,N,2,6,0.87,0.89,25000000,156822020,5.27,N,"Thriller, Crime, Drama, Mystery"
+2004,Seabiscuit,N,0,7,0.77,0.76,87000000,148336445,0.71,N,"Drama, History"
+2003,Chicago,W,6,13,0.86,0.83,45000000,306776732,5.82,N,"Action, Comedy, Crime, Drama, Music"
+2003,Gangs of New York,N,0,10,0.75,0.81,100000000,193772504,0.94,N,"Drama, History, Crime"
+2003,The Hours,N,1,9,0.81,0.85,25000000,108846072,3.35,N,Drama
+2003,The Lord of the Rings: The Two Towers,N,2,6,0.96,0.95,79000000,926287400,10.73,W,"Adventure, Fantasy, Action"
+2003,The Pianist,N,3,7,0.96,0.95,35000000,120072577,2.43,W,"Drama, War"
+2002,A Beautiful Mind,W,4,8,0.75,0.93,60000000,313542341,4.23,W,"Drama, Romance"
+2002,Gosford Park,N,1,7,0.86,0.78,19800000,87754044,3.43,N,"Drama, Mystery, Thriller"
+2002,In the Bedroom ,N,0,5,0.93,0.81,2000000,35918429,16.96,N,"Drama, Thriller"
+2002,The Lord of the Rings: The Fellowship of the Ring,N,4,13,0.95,0.86,93000000,871368364,8.37,N,"Adventure, Fantasy, Action"
+2002,Moulin Rouge,N,2,8,0.76,0.89,52500000,177677823,2.38,N,"Romance, Drama, Music"
+2001,Gladiator,W,5,12,0.76,0.87,103000000,457640427,3.44,W,"Action, Drama, Adventure"
+2001,Chocolat,N,0,5,0.63,0.83,25000000,152500343,5.10,N,"Comedy, Drama, Romance"
+2001,"Crouching TIger, Hidden Dragon",N,4,10,0.97,0.86,17000000,213525736,11.56,N,"Adventure, Drama, Action, Romance"
+2001,Erin Brockovich,N,1,5,0.84,0.80,52000000,256271286,3.93,N,Drama
+2001,Traffic,N,4,5,0.92,0.85,48000000,207515725,3.32,N,Drama
