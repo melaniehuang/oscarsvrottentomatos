@@ -117,10 +117,13 @@ function hideAll() {
 
 function renderRatings(m, i){
   var critic = m.getNum(5)*100;
-  var user = m.getNum(6)*100;
+  var user = m.getNum(6)*100; //float
+  user = user.toFixed(0);
+  
   var startingPoint = (windowWidth/100)*user;
   var ratingDiff =  critic - user;
   var circle = false;
+  println(user);
 
   if (ratingDiff < -5 || ratingDiff > 5){
     fill(0);
@@ -145,7 +148,7 @@ function renderRatings(m, i){
 
     noStroke();
     fill(0);
-    text(user+"%", startingPoint +10, (barHeight*i)+(barHeight/2)+4);
+    text(str(user)+"%", startingPoint +10, (barHeight*i)+(barHeight/2)+4);
   } else if ((circle == true) && (ratingDiff > 0)) {
     strokeWeight(3);
     stroke(0);
@@ -154,7 +157,7 @@ function renderRatings(m, i){
 
     noStroke();
     fill(0);
-    text(user+"%", startingPoint - 34, (barHeight*i)+(barHeight/2)+4);
+    text(str(user)+"%", startingPoint - 34, (barHeight*i)+(barHeight/2)+4);
   }
 
   strokeWeight(1);
